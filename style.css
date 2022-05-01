@@ -1,0 +1,54 @@
+.bg {
+    /* The image used */
+    background-image: url("/bg.png");
+  
+    /* Full height */
+    height: 100%; 
+  
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .satu{
+    text-align: center;
+    font-family: 'Mukta Malar', sans-serif;
+    text-shadow: 10px 5px 13px rgba(0, 0, 0, 1);
+    color: white;
+    /* font-size: 36px; */
+    /* background: rgba(0,0,0,0.1); */
+  }
+  .martopp{
+      margin-top: 40vh;
+  }
+  .sattuu{
+      position: fixed;
+      /* background-color: red; */
+      z-index: 1;
+      bottom: 10%;
+      left: 50%;
+      position: fixed;
+      transform: translate(-50%, -50%);
+  }
+  .dua{
+    text-align: center;
+    font-family: 'Quintessential', cursive;
+    text-shadow: 10px 5px 13px rgba(0, 0, 0, 1);
+    color: white;
+  }
+
+  .tiga{
+    text-align: center;
+    font-family: 'Quintessential', cursive;
+    text-shadow: 10px 5px 13px rgba(0, 0, 0, 1);
+    color: white;
+  }
+  body, html {
+    height: 100%;
+    margin: 0;
+    /* background-color: rgba(0, 255, 0, 0.1); */
+  }
+.bgg{
+    background: linear-gradient(rgba(106, 255, 77, 0.7),rgba(0, 0, 0, 0.371));
+    height: 100%;
+}
